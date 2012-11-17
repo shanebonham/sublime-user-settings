@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[
+factory :${1:model} do
+  ${2:attribute} ${4:'${3:value}'}
+end
+]]></content>
+  <tabTrigger>fact</tabTrigger>
+  <scope>source.ruby</scope>
+</snippet>

@@ -1,0 +1,16 @@
+[
+  {
+    "keys": ["end"],
+    "command": "move_to",
+    "args": {
+      "to": "hardeol"
+    }
+  },
+  {
+    "keys": ["home"],
+    "command": "move_to",
+    "args": {
+      "to": "hardbol"
+    }
+  }
+]

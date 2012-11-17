@@ -1,0 +1,10 @@
+{
+	"auto_upgrade_last_run": 1353101546,
+	"installed_packages":
+	[
+		"ApacheConf.tmLanguage",
+		"DetectSyntax",
+		"Package Control",
+		"SublimeCodeIntel"
+	]
+}
