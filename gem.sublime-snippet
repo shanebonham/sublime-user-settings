@@ -1,6 +1,6 @@
 <snippet>
   <content><![CDATA[
-gem '${1:gem}', '~> ${2:version}'
+gem '${1:gem}'${2:, '~> ${3:version}'}
 ]]></content>
   <tabTrigger>gem</tabTrigger>
   <scope>source.ruby.rails</scope>
