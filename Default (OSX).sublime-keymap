@@ -12,5 +12,21 @@
     "args": {
       "to": "hardbol"
     }
+  },
+  {
+    "keys": ["shift+home"],
+    "command": "move_to",
+    "args": {
+      "to": "hardbol",
+      "extend": true
+    }
+  },
+  {
+    "keys": ["super+v"],
+    "command": "paste_and_indent"
+  },
+  {
+    "keys": ["super+shift+v"],
+    "command": "paste"
   }
 ]
