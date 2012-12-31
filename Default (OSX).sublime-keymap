@@ -28,5 +28,14 @@
   {
     "keys": ["super+shift+v"],
     "command": "paste"
+  },
+  {
+    "keys": ["ctrl+shift+."],
+    "command": "erb",
+    "context": {
+      "key": "selector",
+      "operator": "equal",
+      "operand": "text.html.ruby"
+    }
   }
 ]

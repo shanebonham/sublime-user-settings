@@ -3,10 +3,13 @@
 	"installed_packages":
 	[
 		"ApacheConf.tmLanguage",
+		"CTags",
 		"DetectSyntax",
+		"ERB Insert and Toggle Commands",
 		"GitHubinator",
 		"Markdown Preview",
 		"Package Control",
-		"SublimeCodeIntel"
+		"Solarized Color Scheme",
+		"Theme - Soda"
 	]
 }

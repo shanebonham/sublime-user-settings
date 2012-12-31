@@ -1,22 +1,28 @@
 {
-	"bold_folder_labels": true,
-	"color_scheme": "Packages/Color Scheme - Default/Slate.tmTheme",
+	"theme": "Soda Light.sublime-theme",
+	"color_scheme": "Packages/Solarized Color Scheme/Solarized (dark).tmTheme",
 	"file_exclude_patterns":
 	[
 		".gitignore",
 		".rbenv-gemsets",
 		".rspec",
 		".DS_Store",
-		".gitkeep"
+		".gitkeep",
+		".tags*"
 	],
 	"folder_exclude_patterns":
 	[
 		".bundle",
 		".sass-cache",
-		".git"
+		".git",
+		"tmp"
 	],
-	"font_face": "Monaco",
-	"font_size": 13,
+	"font_face": "Inconsolata",
+	"font_options":
+	[
+		"subpixel_antialias"
+	],
+	"font_size": 15,
 	"hot_exit": false,
 	"ignored_packages":
 	[
